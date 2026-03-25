@@ -1,4 +1,4 @@
-# Spend-Customers-Orders-Performance
+# Spend-Customers-Orders-Performance Power BI Dashboard
 This dashboard was built to provide a holistic view of marketing performance and business growth, focusing on:  Marketing Spend efficiency, Customer acquisition &amp; behavior, Order and revenue performance  Profitability at first-order level for a business.
 
 The goal was to enable stakeholders (marketing, growth, and leadership teams) to make faster, data-driven decisions on budget allocation, CAC optimization, and revenue growth.
